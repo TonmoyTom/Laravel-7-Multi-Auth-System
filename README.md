@@ -26,7 +26,7 @@ Start the development server.
 
 What it does?
 
-laravel application with admin guard. You can even use this application for your projects if you need multiple guards. Getting this app up and running
+laravel application with admin guard. You can even use this application for your projects if you need multiple guards.
 
             {guard:Admin}/login
             {guard:Admin}/register
