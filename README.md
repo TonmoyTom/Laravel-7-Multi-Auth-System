@@ -1,6 +1,6 @@
-Laravel Application with Multiple Authentication
+Laravel 7 Application with Multiple Authentication
 
-Laravel application with admin guard. You can even use this application for your projects if you need multiple guards. Getting this app up and running
+Laravel 7 application with admin guard. You can even use this application for your projects if you need multiple guards. Getting this app up and running
 
   *Make sure you already have xampp installed (easy to use).
 
