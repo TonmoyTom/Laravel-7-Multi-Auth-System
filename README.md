@@ -2,11 +2,11 @@ Laravel Application with Multiple Authentication
 
 Laravel application with admin guard. You can even use this application for your projects if you need multiple guards. Getting this app up and running
 
-    *Make sure you already have xampp installed (easy to use).
+  *Make sure you already have xampp installed (easy to use).
 
-    *Clone this repository to your local machine or just download the zip from the above green button.
+ *Clone this repository to your local machine or just download the zip from the above green button.
 
-    *Install Composer first, then run this command in your command-line (you should be inside your project directory).
+ *Install Composer first, then run this command in your command-line (you should be inside your project directory).
 
             composer install
 
@@ -14,25 +14,25 @@ Rename .env.example to .env and add your database.
 
 Generate application key.
 
-        php artisan key:generate
+            php artisan key:generate
 
 Create tables.
 
-        php artisan migrate
+            php artisan migrate
 
 Start the development server.
 
-        php artisan serve
+            php artisan serve
 
 What it does?
 laravel application with admin guard. You can even use this application for your projects if you need multiple guards. Getting this app up and running
 
-        {guard:Admin}/login
-        {guard:Admin}/register
-        {guard:Admin}/logout
-        {guard:Admin}/password/reset
-        {guard:Admin}/password/email
-        {guard:Admin}/home
+            {guard:Admin}/login
+            {guard:Admin}/register
+            {guard:Admin}/logout
+            {guard:Admin}/password/reset
+            {guard:Admin}/password/email
+            {guard:Admin}/home
 
 Usage
 
