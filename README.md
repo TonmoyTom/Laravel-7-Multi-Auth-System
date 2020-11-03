@@ -28,12 +28,21 @@ What it does?
 
 laravel application with admin guard. You can even use this application for your projects if you need multiple guards.
 
+        User    
+            {guard:user}/Profile
+            {guard:user}/Profile/Edit With Ajax
+            {guard:user}/Profile/Change Password With Ajax
+            
+        Admin
             {guard:Admin}/login
             {guard:Admin}/register
             {guard:Admin}/logout
             {guard:Admin}/password/reset
             {guard:Admin}/password/email
             {guard:Admin}/home
+            {guard:Admin}/Profile
+            {guard:Admin}/Profile/Edit With Ajax
+            {guard:Admin}/Profile/Change Password With Ajax
 
 Usage
 
