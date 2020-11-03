@@ -25,6 +25,7 @@ Start the development server.
             php artisan serve
 
 What it does?
+
 laravel application with admin guard. You can even use this application for your projects if you need multiple guards. Getting this app up and running
 
             {guard:Admin}/login
