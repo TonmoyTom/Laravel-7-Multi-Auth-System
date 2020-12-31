@@ -26,7 +26,7 @@ Route::post('/user/logout', 'Auth\LoginController@userlogout')->name('user.logou
 Route::get('/profile', 'HomeController@profile')->name('user.profile');
 Route::get('/profile/change', 'HomeController@profilechange')->name('user.profile.change');
 
- //Admin Profile Edit...
+ // Profile Edit...
 Route::Post('/update-password', 'HomeController@useroldPassword');
 Route::Post('/update-profile-password', 'HomeController@upadtepassword');
 Route::get('/update-profile-change', 'HomeController@upadteprofile')->name('user.update.profile.change');
