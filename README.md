@@ -12,6 +12,8 @@ Laravel 7 application with admin guard. You can even use this application for yo
 
 Rename .env.example to .env and add your database.
 
+            cp .env.example .env
+
 Generate application key.
 
             php artisan key:generate
